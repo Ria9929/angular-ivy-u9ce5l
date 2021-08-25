@@ -1,0 +1,10 @@
+.head{
+  background-color:rgb(186, 139, 230);
+  color:black;
+  height: 7vh;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  margin: auto;
+  border: 1em;
+  padding: 1em;
+}
