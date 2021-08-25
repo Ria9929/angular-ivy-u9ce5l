@@ -2,10 +2,12 @@
   min-width: 150px;
   max-width: 500px;
   width: 100%;
+  color:black;
   
 }
 
 .example-full-width {
+  background-color: white;
   width: 100%;
   height: auto;
 }
