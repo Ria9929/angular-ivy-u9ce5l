@@ -13,9 +13,7 @@
   padding-block-end: 2ch;
   border-color: black;
 }
-.example-full-width.h3{
-  align-items: center ;
-}
+
 .table{
   border-collapse: separate;
   border-spacing:0 10px;
