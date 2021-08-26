@@ -1,11 +1,20 @@
-.head{
-  background-color:rgb(186, 139, 230);
-  color:black;
+.heads{
+  background-color:black;
+  color:white;
   height: 10vh;
   font-family: 'Courier New', Courier, monospace;
-  font-size:larger;
-  text-align: center;
+  font-size:160%;
   margin: auto;
-  border: 1em;
+  border: 0.2em;
   padding: 1em;
+}
+@media screen and (max-width: 1060px) {
+  #primary { width:67%; }
+  #secondary { width:30%; margin-left:3%;}  
+}
+
+/* Media Queries: Tabled Portrait */
+@media screen and (max-width: 768px) {
+  #primary { width:100%; }
+  #secondary { width:100%; margin:0; border:none; }
 }
